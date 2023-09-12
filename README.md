@@ -1,6 +1,6 @@
-# create-web3 boilerplate
+# A decentralized way to use DREX in alligment with Defi
 
-A boilerplate for starting a web3 project.
+This project aims to develop a peer to peer platform that allow users to lend and borrow all kinds of cryptocurrency including the DREX, the CBDC that is digitalyzing the brazillian economy.
 
 This boilerplate quickly creates a mono repo with 2 environments, a react frontend environment and a Ethereum development environment for writing, testing and deploying contracts.
 
